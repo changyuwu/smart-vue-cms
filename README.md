@@ -1,4 +1,4 @@
-# smart-vue-cms
+# smart-vue-cms1
 
 ## Project setup
 ```

@@ -1,0 +1,4 @@
+const PREFIX = 'USER_'
+
+export const SET_USER_TOKEN = `${PREFIX}SET_USER_TOKEN`
+export const SET_USER_INFO = `${PREFIX}SET_USER_INFO`
